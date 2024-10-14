@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lochlan McElroy</h1>
 <h3 align="center">A cybersecurity researcher at WMU</h3>
+<h3 align="center">[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 
 - 🔭 I’m currently working on **new CTF competitions!**
 
 - 📫 How to reach me: **lochlanmcelroy@pm.me**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
