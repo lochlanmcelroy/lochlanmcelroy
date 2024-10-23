@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **new CTF competitions!**
 
+- Most recent writeup:
+https://lochlanmcelroy.com/ctf-writeup-covert-challenge-csaw-ctf/
+
+
 - 📫 How to reach me: **lochlanmcelroy@pm.me**
 
 
