@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on **new CTF competitions!**
 
-- Most recent writeup:
-https://github.com/lochlanmcelroy/writeup
-
 
 - 📫 How to reach me: **lochlanmcelroy@pm.me**
 
