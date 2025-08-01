@@ -3,7 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on **new CTF competitions!**
+- 🔭 I’m currently working on the WRAVEN threat dashboard, the WMU Cybersecurity Summit, and a new CTF!
 
 
 - 📫 How to reach me: **lochlanmcelroy@pm.me**
